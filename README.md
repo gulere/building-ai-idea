@@ -1,5 +1,7 @@
 # Bridge - The AI-powered Needs Assessment and Resource Allocation for Migration Crises Tool
 
+Building AI course project
+
 ## Summary
 
 From scattered data to targeted action. This project leverages AI to optimize humanitarian aid distribution during migration crises. Bridge, an AI system, analyzes real-time data and demographic information to assess evolving refugee needs and uses machine learning to ensure resources and aid reach the most vulnerable populations efficiently. It then uses machine learning to optimize the allocation of resources and aid distribution to ensure they reach the most vulnerable populations.
@@ -58,5 +60,4 @@ To further develop this project, the following steps are needed:
 ## Acknowledgments
 
 * Inspiration from various humanitarian AI projects
-* Satellite imagery courtesy of Google Earth
 * Social media analysis tools and methodologies inspired by open-source NLP projects
