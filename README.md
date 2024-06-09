@@ -19,7 +19,7 @@ The AI solution will be used by humanitarian organizations and NGOs to:
 * **Data Collection:** Bridge gathers information from various sources including social media, news reports, NGO reports, and satellite imagery.
 * **Needs Assessment:** AI algorithms analyze the data to identify emerging needs like food shortages, medical emergencies, or lack of shelter in specific locations.
 * **Resource Allocation:** Machine learning models predict future needs and optimize resource allocation based on real-time data and historical patterns.
-* ** Deployment:** Through a user-friendly interface, humanitarian organizations can access needs assessments and optimized distribution plans.
+* **Deployment:** Through a user-friendly interface, humanitarian organizations can access needs assessments and optimized distribution plans.
 
 
 **Process:**
