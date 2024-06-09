@@ -1,4 +1,4 @@
-# Bridge - The AI-powered Needs Assessment and Resource Allocation for Migration Crises Tool
+# Bridge - Needs Assessment & Resource Allocation for Migration Crises
 
 Building AI course project
 
