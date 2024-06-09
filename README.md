@@ -29,7 +29,7 @@ The AI solution will be used by humanitarian organizations and NGOs to:
 2. **Data Analysis:** Use AI techniques to analyze and predict the needs based on the collected data.
 3. **Logistics Optimization:** Implement AI algorithms to optimize the supply chain and distribution routes.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Refugee_camp%2C_Bossaso.jpg/800px-Refugee_camp%2C_Bossaso.jpg" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Refugee_camp%2C_Bossaso.jpg/800px-Refugee_camp%2C_Bossaso.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6e/Saharawi_refugee_women_with_flour_in_Dakhla%2C_Algeria.jpg" width="300">
 
 ## Data sources and AI methods
 
