@@ -23,13 +23,10 @@ The AI solution will be used by humanitarian organizations and NGOs to:
 * **Resource Allocation:** Machine learning models predict future needs and optimize resource allocation based on real-time data and historical patterns.
 * **Deployment:** Through a user-friendly interface, humanitarian organizations can access needs assessments and optimized distribution plans.
 
-
 **Process:**
 1. **Data Collection:** Real-time data collection from satellite images, social media, and field reports.
 2. **Data Analysis:** Use AI techniques to analyze and predict the needs based on the collected data.
 3. **Logistics Optimization:** Implement AI algorithms to optimize the supply chain and distribution routes.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Refugee_camp%2C_Bossaso.jpg/800px-Refugee_camp%2C_Bossaso.jpg](https://upload.wikimedia.org/wikipedia/commons/6/6e/Saharawi_refugee_women_with_flour_in_Dakhla%2C_Algeria.jpg" width="300">
 
 ## Data sources and AI methods
 
